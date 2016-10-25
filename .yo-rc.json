@@ -1,0 +1,8 @@
+{
+  "generator-lean-mean": {
+    "appName": "test",
+    "scaffolds": [],
+    "css": "Bootstrap",
+    "fontawesome": true
+  }
+}
